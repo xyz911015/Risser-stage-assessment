@@ -7,3 +7,4 @@ Adolescent idiopathic scoliosis (AIS) is a three-dimensional spine deformity gov
 
 To request datasets, please contact the following e-mail address
 544053810@qq.com
+The code is located in the master branch.
